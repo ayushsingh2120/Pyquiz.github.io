@@ -26,7 +26,7 @@ The **Python Quiz App** is a desktop application developed using Python and the 
 ## Installation and Setup
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Salil16440/quiz.github.io
+   git clone https://github.com/ayushsingh2120/Pyquiz.github.io
 
 2. **Navigate to Directory**
    ```bash
@@ -67,6 +67,6 @@ Tkinter documentation for GUI development.
 
 ## Contact
 
-For any inquiries, please reach out to **salil.16440@stu.upes.ac.in**.
+For any inquiries, please reach out to **ayush.10104@stu.upes.ac.in**.
 
 
