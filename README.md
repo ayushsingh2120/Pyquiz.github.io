@@ -30,7 +30,7 @@ The **Python Quiz App** is a desktop application developed using Python and the 
 
 2. **Navigate to Directory**
    ```bash
-    cd quiz.github.io
+    cd Pyquiz.github.io
 3. **Run the Application**
    ```bash
    python quiz_app.py
